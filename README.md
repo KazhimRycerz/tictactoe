@@ -1,8 +1,9 @@
-![Conceptstructure](./tictactoe.png)
+![Conceptstructure](./tictactoe_eng.png)
+<!-- ![Conceptstructure](./tictactoe.png) -->
 
-- [x] Erste Schritte - Grundgedanken und Struktur
-- [ ] Anlage HTML, CSS, JS
-- [ ] HTML Aufbau
+- [x] First steps - thoughts and structure
+- [ ] build-up HTML, CSS, JS
+- [ ] HTML buildup general structure
 - [ ] CSS
 - [ ] JS
-- [ ] Verfeinern / Nacharbeit / Optimierung im Design
+- [ ] bugfixes / retouch / optimisation design
